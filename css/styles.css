@@ -527,8 +527,6 @@ img {
 
 /* Підписатись */
 .subscription {
-  display: flex;
-  flex-direction: column;
   margin-left: auto;
 }
 .subscr-p {
